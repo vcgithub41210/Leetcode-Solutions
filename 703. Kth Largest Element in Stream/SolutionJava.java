@@ -1,3 +1,7 @@
+//requirements: ArrayList, List interfaces
+import java.util.ArrayList;
+import java.util.List;
+
 class KthLargest {
     int num_k;
     List <Integer> array = new ArrayList<>();
